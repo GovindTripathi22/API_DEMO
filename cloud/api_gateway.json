@@ -1,0 +1,9 @@
+{
+  "service": "api-gateway",
+  "governed_by": "DOC-CLOUD-305",
+  "title": "Cloud Infrastructure Latency Policy",
+  "max_api_latency": "200 ms",
+  "monthly_cloud_budget": "5000 usd",
+  "cluster_nodes": 8,
+  "environment": "production"
+}
