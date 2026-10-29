@@ -3,3 +3,4 @@
 #define NOMINAL_VOLTAGE 48.0V
 #define OVERVOLTAGE_LIMIT 54.0V
 #define THERMAL_SHUTDOWN 125.0C
+#define OVERVOLTAGE_LIMIT 60.0V  // Changed from 54.0V (+11.1% drift)
